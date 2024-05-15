@@ -1,0 +1,3 @@
+pip install dash
+pip install numpy
+pip install dash_auth
